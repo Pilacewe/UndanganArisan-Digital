@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Arisan Keluarga Barista",
+  "description": "Website undangan digital arisan keluarga barista di kediaman D Mmh Adam / Mamik Digital, Perumahan PK13 Blok H14 No 1. Dilengkapi konfirmasi kehadiran WhatsApp, hitung mundur acara, peta interaktif, dan galeri kenangan keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
