@@ -3,23 +3,22 @@ import { GalleryPhoto, RundownItem, RsvpEntry } from '../types';
 export const EVENT_DETAILS = {
   title: 'Arisan & Silaturahmi Keluarga Barista',
   subtitle: 'Merajut Kehangatan, Menjaga Tali Persaudaraan',
-  hostName: 'D Mmh Adam / Mamik Digital',
-  address: 'Perumahan PK13 Blok H14 No. 1',
-  fullAddress: 'Perumahan PK13 Blok H14 No. 1, Kediaman D Mmh Adam / Mamik Digital',
+  hostName: 'sasasjak',
+  address: 'sasaasa',
+  fullAddress: 'digidaw',
   dateFormatted: 'Rabu, 4 November 2026',
   timeFormatted: '11:00 WIB s/d Selesai',
   eventTimestamp: new Date('2026-11-04T11:00:00+07:00').getTime(),
-  whatsappNumber: '6281213466786',
-  displayPhone: '+62 812-1346-6786',
+  whatsappNumber: '621211218473',
+  displayPhone: '+62 999219221',
   dresscode: 'Nuansa Maroon / Earthy / Bebas Rapi & Sopan',
-  googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Perumahan+PK13+Blok+H14+no+1',
-  wazeUrl: 'https://waze.com/ul?q=Perumahan%20PK13%20Blok%20H14%20no%201',
+  googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=',
 };
 
 export const GALLERY_PHOTOS: GalleryPhoto[] = [
   {
     id: 'photo-1',
-    src: '/assets/aistudio/image_59eccfcf.png',
+    src: '/assets/aistudio/',
     title: 'Keceriaan Momen Hajatan Keluarga',
     description: 'Senyum hangat ibu-ibu dan keluarga barista dalam balutan busana aneka warna yang semarak.',
     category: 'gathering',
