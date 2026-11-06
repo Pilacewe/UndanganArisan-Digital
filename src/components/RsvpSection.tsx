@@ -108,7 +108,7 @@ Terima kasih atas undangannya. Wassalamu'alaikum Wr. Wb.`;
               Konfirmasi Terkirim ke WhatsApp!
             </h3>
             <p className="text-sm text-[#6B5E5E] max-w-md mx-auto mb-6">
-              Terima kasih <strong>{name}</strong> telah mengirim konfirmasi kehadiran kepada D Mmh Adam / Mamik Digital. Doa dan pesan Anda telah tersimpan di Buku Tamu.
+              Terima kasih <strong>{name}</strong>  Doa dan pesan Anda telah tersimpan di Buku Tamu.
             </p>
             <button
               type="button"
@@ -232,7 +232,7 @@ Terima kasih atas undangannya. Wassalamu'alaikum Wr. Wb.`;
               className="w-full py-4 px-6 rounded-2xl bg-gradient-to-r from-emerald-600 via-emerald-700 to-emerald-800 text-white font-medium text-sm flex items-center justify-center gap-2 shadow-lg shadow-emerald-700/20 hover:shadow-xl hover:scale-[1.01] active:scale-[0.98] transition-all"
             >
               <Send className="w-4 h-4 text-emerald-200" />
-              <span>Kirim Konfirmasi via WhatsApp (+62 812-1346-6786)</span>
+              <span>Kirim Konfirmasi via</span>
             </button>
 
             <p className="text-[11px] text-center text-[#8C7A7A]">
